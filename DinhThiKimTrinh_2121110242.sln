@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Example1.csproj", "{B82319CB-F953-46D9-9A3C-8E2740003154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap1", "WindowsFormsApp1\Baitap1.csproj", "{DB74C42A-287B-42D2-8112-AA44860DC9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap2", "WindowsFormsApp2\Baitap2.csproj", "{14094978-257D-45AD-82C3-7438D6D08817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82319CB-F953-46D9-9A3C-8E2740003154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82319CB-F953-46D9-9A3C-8E2740003154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82319CB-F953-46D9-9A3C-8E2740003154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82319CB-F953-46D9-9A3C-8E2740003154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB74C42A-287B-42D2-8112-AA44860DC9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB74C42A-287B-42D2-8112-AA44860DC9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB74C42A-287B-42D2-8112-AA44860DC9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB74C42A-287B-42D2-8112-AA44860DC9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14094978-257D-45AD-82C3-7438D6D08817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14094978-257D-45AD-82C3-7438D6D08817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14094978-257D-45AD-82C3-7438D6D08817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14094978-257D-45AD-82C3-7438D6D08817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E201664-9C1A-4682-9C8B-70ED7B930A0A}
+	EndGlobalSection
+EndGlobal
