@@ -9,5 +9,3 @@ D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\WindowsFormsApp2\obj\De
 D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
-D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
-D:\DinhThiKimTrinh_2121110242\DinhThiKimTrinh_2121110242\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
